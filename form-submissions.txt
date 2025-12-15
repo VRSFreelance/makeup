@@ -1,0 +1,188 @@
+New Form Submission:
+
+Name: Suvetha
+Email: suvethas2014@gmail.com
+Phone: 09585397285
+City: Coimbatore
+Experience: intermediate
+Course: cinema-makeup-level-1
+
+UTM Source: facebook
+UTM Medium: paid
+UTM Campaign: makeup_july
+UTM Term: beauty_course
+UTM Content: top_banner
+----------------------------------
+New Form Submission:
+
+Name: Test
+Email: test@gmail.com
+Phone: 7303031415
+City: Mumbai
+Experience: beginner
+Course: cinema-makeup-pro
+
+UTM Source: facebook
+UTM Medium: paid
+UTM Campaign: makeup_july
+UTM Term: beauty_course
+UTM Content: top_banner
+----------------------------------
+New Form Submission:
+
+Name: Test
+Email: test@gmail.com
+Phone: 7303031415
+City: Mumbai
+Experience: beginner
+Course: cinema-makeup-level-1
+
+UTM Source: facebook
+UTM Medium: paid
+UTM Campaign: makeup_july
+UTM Term: beauty_course
+UTM Content: top_banner
+----------------------------------
+New Form Submission:
+
+Name: test-11pm
+Email: test@gmail.com
+Phone: 7303031415
+City: Mumbai
+Experience: beginner
+Course: cinema-makeup-level-1
+
+UTM Source: facebook
+UTM Medium: paid
+UTM Campaign: makeup_july
+UTM Term: beauty_course
+UTM Content: top_banner
+----------------------------------
+New Form Submission:
+
+Name: Test Developer 2
+Email: test@gmail.com
+Phone: 1
+City: AE
+Experience: beginner
+Course: cinema-makeup-level-1
+
+UTM Source: meta
+UTM Medium: ig
+UTM Campaign: meta_leads_dubai_20250405
+UTM Term: 120220740335510556
+UTM Content: meta_static_3-options-v1_20250405
+UTM ID: 120220740059600556
+----------------------------------
+New Form Submission:
+
+Name: Test Developer 3
+Email: test@gmail.com
+Phone: 2
+City: EW
+Experience: intermediate
+Course: cinema-makeup-pro
+
+UTM Source: meta
+UTM Medium: ig
+UTM Campaign: meta_leads_dubai_20250405
+UTM Term: 120220740335510556
+UTM Content: meta_static_3-options-v1_20250405
+UTM ID: 120220740059600556
+----------------------------------
+New Form Submission:
+
+Name: Test Lead
+Email: test@gmail.com
+Phone: 7303031415
+City: Mumbai
+Experience: Beginner
+Course: Express Course
+
+UTM Source: N/A
+UTM Medium: N/A
+UTM Campaign: N/A
+UTM Term: N/A
+UTM Content: N/A
+UTM ID: N/A
+----------------------------------
+New Form Submission:
+
+Name: Test Lead
+Email: test@gmail.com
+Phone: 7303031415
+City: Mumbai
+Experience: Beginner
+Course: Express Course
+
+UTM Source: N/A
+UTM Medium: N/A
+UTM Campaign: N/A
+UTM Term: N/A
+UTM Content: N/A
+UTM ID: N/A
+----------------------------------
+New Form Submission:
+
+Name: test lead
+Email: gill.simar93+436343@gmail.com
+Phone: 8076957859
+City: Thunder Bay
+Experience: Beginner
+Course: Express Course
+
+UTM Source: N/A
+UTM Medium: N/A
+UTM Campaign: N/A
+UTM Term: N/A
+UTM Content: N/A
+UTM ID: N/A
+----------------------------------
+New Form Submission:
+
+Name: Test
+Email: aravinth.s@rapzterdigital.com
+Phone: 08169137992
+City: Mumbai
+Experience: Beginner
+Course: Express Course
+
+UTM Source: N/A
+UTM Medium: N/A
+UTM Campaign: N/A
+UTM Term: N/A
+UTM Content: N/A
+UTM ID: N/A
+----------------------------------
+New Form Submission:
+
+Name: test lead 2
+Email: gill.simar93+34563523@gmail.com
+Phone: 4164518329
+City: Thunder Bay
+Experience: Advanced
+Course: Pro Course
+
+UTM Source: N/A
+UTM Medium: N/A
+UTM Campaign: N/A
+UTM Term: N/A
+UTM Content: N/A
+UTM ID: N/A
+----------------------------------
+New Form Submission:
+
+Name: Test Lead
+Email: test@gmail.com
+Phone: 7303031415
+City: Mumbai
+Experience: Beginner
+Course: Express Course
+
+UTM Source: N/A
+UTM Medium: N/A
+UTM Campaign: N/A
+UTM Term: N/A
+UTM Content: N/A
+UTM ID: N/A
+----------------------------------
